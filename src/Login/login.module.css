@@ -1,0 +1,18 @@
+.login{width: 100%; border: 2px solid #565656; margin: 30px 0; padding: 20px; background-color: #fff; padding-top: 40px;}
+.btnblock{ background-color: #343434 !important; color: #fff !important; font-size: 20px;
+    display: block;    margin: auto;    width: 250px; }
+.btnblock:hover{
+    background-color: #343434 !important; color: #fff !important;
+}
+.label{color: #343434; font-weight: 700; font-size: 20px;}
+.marginBottom{margin-bottom: 30px;}
+.loginControl { border: 1px solid #ccc !important; background: #fff !important; padding-left: 40px !important;}
+.emailloginIcon { position: absolute; left: 10px; top: 6px;}
+.emailloginIcon img { width: 20px;}
+.emailLogin { position: relative;}
+.eyeIcon {position: absolute; right: 10px; top: 6px;}
+.forgotPassword{ text-align: left; font-size: 12px;margin-top: 10px;}
+.forgotPasswordLink{color: #343434; }
+.formSwitch { padding-top: 10px;}
+.labelColor{ color: #343434; float: left;}
+.error{text-align: left; color: #dc0000;}
